@@ -17,30 +17,6 @@ function App() {
     nombre: "Josei De la Cruz",
     puesto: "Programador FrontEnd",
     fav: true  
-  },
-  {
-    id: uuidv4(),
-    equipo: "UX y Diseño",
-    foto: "https://github.com/JeanmarieAluraLatam.png",
-    nombre: "Jeanmarie Quijada",
-    puesto: "Instructora en Alura Latam",
-    fav: false 
-  },
-  {
-    id: uuidv4(),
-    equipo: "Programación",
-    foto: "https://github.com/christianpva.png",
-    nombre: "Christian Velasco",
-    puesto: "Head de Alura e Instructor",
-    fav: false 
-  },
-  {
-    id: uuidv4(),
-    equipo: "Innovación y Gestion",
-    foto: "https://github.com/JoseDarioGonzalezCha.png",
-    nombre: "Jose Gonzalez",
-    puesto: "Dev FullStack",
-    fav: false 
   }
 ])
 
